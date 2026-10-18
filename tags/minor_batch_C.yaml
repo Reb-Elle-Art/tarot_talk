@@ -1,0 +1,314 @@
+card_id: ten-of-cups
+themes:
+  - emotional fulfillment
+  - family harmony
+  - domestic happiness
+  - spiritual bliss
+  - emotional maturity
+  - community belonging
+  - empathy and compassion
+  - lasting joy
+keywords:
+  - ten of cups
+  - emotional fulfillment
+  - family happiness
+  - harmony in the home
+  - domestic joy
+  - contentment
+  - emotional maturity
+  - empathy
+  - community
+  - rainbow
+  - relationships
+  - love
+  - belonging
+  - celebration
+  - family gatherings
+
+card_id: ten-of-pentacles
+themes:
+  - legacy and inheritance
+  - family prosperity
+  - generational wealth
+  - tradition
+  - material abundance
+  - generosity
+  - stewardship
+  - legacy building
+keywords:
+  - ten of pentacles
+  - wealth
+  - legacy
+  - inheritance
+  - family prosperity
+  - generations
+  - tradition
+  - home
+  - castle
+  - estate
+  - passing down
+  - family business
+  - retirement
+  - antiques
+  - stewardship
+
+card_id: ten-of-swords
+themes:
+  - betrayal and manipulation
+  - suffering and victimization
+  - harassment
+  - cycles of cruelty
+  - feeling trapped
+  - no resolution
+  - prolonged pain
+  - exploitation
+keywords:
+  - ten of swords
+  - suffering
+  - victimization
+  - harassment
+  - bullying
+  - torture
+  - no resolution
+  - trapped
+  - being mocked
+  - school bullying
+  - scapegoat
+  - cruelty
+  - manipulation
+
+card_id: ten-of-wands
+themes:
+  - burden and overload
+  - burnout
+  - responsibility
+  - overwhelm
+  - delegation
+  - success vs passion
+  - loss of purpose
+  - control
+keywords:
+  - ten of wands
+  - burden
+  - overwhelm
+  - stress
+  - overwork
+  - burnout
+  - heavy loads
+  - carrying too much
+  - delegation
+  - workload
+  - responsibility
+  - control
+  - leadership
+  - corporate burnout
+  - losing passion
+
+card_id: three-of-cups
+themes:
+  - celebration
+  - friendship and sisterhood
+  - community
+  - abundance and harvest
+  - joy
+  - emotional connection
+  - social bonding
+  - reunion
+keywords:
+  - three of cups
+  - celebration
+  - friendship
+  - gathering
+  - community
+  - party
+  - reunion
+  - sisterhood
+  - joy
+  - abundance
+  - emotional connection
+  - social bonding
+  - reconnecting with family
+  - festive occasions
+  - weddings
+
+card_id: three-of-pentacles
+themes:
+  - craftsmanship
+  - patronage
+  - investment
+  - recognition
+  - business growth
+  - effort and reward
+  - support
+  - mastery
+keywords:
+  - three of pentacles
+  - craftsmanship
+  - patronage
+  - investment
+  - recognition
+  - business
+  - funding
+  - investors
+  - effort
+  - reward
+  - apprenticeship
+  - masters craft
+  - seeking support
+  - business growth
+
+card_id: three-of-swords
+themes:
+  - heartbreak
+  - betrayal
+  - painful truth
+  - emotional pain
+  - secrets revealed
+  - infidelity
+  - third wheel
+  - gossip
+  - cruelty
+keywords:
+  - three of swords
+  - heartbreak
+  - betrayal
+  - painful truth
+  - emotional pain
+  - heartbreak
+  - cheating
+  - infidelity
+  - love triangle
+  - third wheel
+  - secret revealed
+  - harsh words
+  - gossip
+  - lies
+
+card_id: three-of-wands
+themes:
+  - patience
+  - anticipation
+  - enterprise
+  - investment
+  - waiting for results
+  - progress
+  - foresight
+  - travel
+keywords:
+  - three of wands
+  - patience
+  - anticipation
+  - planning
+  - progress
+  - waiting for results
+  - ships come in
+  - trade
+  - commerce
+  - travel
+  - expansion
+  - international business
+  - career moves
+  - enterprise
+
+card_id: two-of-cups
+themes:
+  - partnership
+  - attraction
+  - romantic love
+  - connection
+  - intimacy
+  - soulmates
+  - chemistry
+  - romantic potential
+keywords:
+  - two of cups
+  - partnership
+  - attraction
+  - love
+  - connection
+  - romance
+  - soulmate
+  - chemistry
+  - romantic potential
+  - intimate
+  - kindred spirit
+  - flirting
+  - simpatico
+  - dating
+  - new relationship
+
+card_id: two-of-pentacles
+themes:
+  - juggling
+  - balance
+  - adaptability
+  - flexibility
+  - overwhelm
+  - time management
+  - prioritization
+keywords:
+  - two of pentacles
+  - juggling
+  - balance
+  - priorities
+  - adaptability
+  - flexibility
+  - overwhelm
+  - time management
+  - juggling bills
+  - juggling career
+  - multiple jobs
+  - juggling projects
+  - juggling finances
+  - two jobs
+
+card_id: two-of-swords
+themes:
+  - indecision
+  - stalemate
+  - compromise
+  - avoidance
+  - impasse
+  - truce
+  - inaction
+keywords:
+  - two of swords
+  - indecision
+  - stalemate
+  - compromise
+  - truce
+  - impasse
+  - avoidance
+  - conflict
+  - mediation
+  - negotiation
+  - deadlocked situation
+  - inaction
+  - unable to choose
+
+card_id: two-of-wands
+themes:
+  - choices
+  - decision-making
+  - direction
+  - opportunity
+  - paths
+  - planning
+  - passion
+  - focus
+keywords:
+  - two of wands
+  - choices
+  - decision
+  - direction
+  - paths
+  - opportunities
+  - planning
+  - passion
+  - focus
+  - choosing career
+  - choosing path
+  - fork in the road
+  - intuition
+  - which way to go
+  - personal choice

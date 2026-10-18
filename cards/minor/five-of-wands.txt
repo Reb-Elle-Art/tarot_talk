@@ -1,0 +1,24 @@
+---
+card_id: "five-of-wands"
+card_name: "Five of Wands"
+card_type: "minor"
+suit: "wands"
+card_number: "five"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/minor-arcana/five-of-wands.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+Five similar young men with five wands battle among themselves. When you invest energy in a project, you often find that it develops and grows quickly in the early stages, but not in later stages. Like a small company just starting, or someone who runs for mayor of a small town, the lack of serious competition make success likely. But when that company gets big enough, or the little mayor wants to be a state representative, then winning becomes harder. More competition, or just stronger competition makes it harder.
+
+The Five of Wands is about this moment when we find ourselves competing with others who have just as much clout and ambition. It predicts conflict and power struggles, inner doubts and fears. Like an athlete who stands out in high school, yet in college finds that he's not so amazing or special, we can lose our passion and drive to succeed.
+
+This is, as with all the fives, a blow to one's pride. The question: "how can I stand out?" The answer is to over come your fear of competition and be bold. This is not the time to retreat or play it safe. This is the time to pull out all the stops and do something different.
+
+The querent should be advised that they're looking at some stiff competition. The battle may be playful, a test rather than serious, but their performance could make a difference to their future.
+
+
+**Reversed:**
+In this card, the querent is warned that he will lose his individuality. That he will be struggling to stand out among others equally talented. What's positive about this card is that there is a struggle, a belief that one can stand out. Thus, reversed, this card suggests that the person has no faith in winning such a struggle, and so doesn't even try.
+
+This is the card of the person who walks in for a job interview, sees all these other talented people waiting, and walks out. They say, "What's the use of even trying. I can't possibly compete with them!"

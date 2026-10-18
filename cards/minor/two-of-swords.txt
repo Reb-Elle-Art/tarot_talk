@@ -1,0 +1,16 @@
+---
+card_id: "two-of-swords"
+card_name: "Two of Swords"
+card_type: "minor"
+suit: "swords"
+card_number: "two"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/minor-arcana/two-of-swords.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+this is a card about a temporary compromise. Opposing forces agree to put up their swords...for now.
+
+
+**Reversed:**
+Clearly, if this is reversed, then no such compromise is or can be reached. The two keep on fighting.

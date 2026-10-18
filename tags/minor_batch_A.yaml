@@ -1,0 +1,381 @@
+card_id: ace-of-cups
+themes:
+  - new love
+  - emotional awakening
+  - passion
+  - spirituality
+  - creativity
+  - compassion
+  - tender feelings
+  - inspiration
+keywords:
+  - ace of cups
+  - cup of overflow
+  - new love
+  - emotional awakening
+  - new feelings
+  - passion
+  - heart opener
+  - spiritual yearning
+  - love beginning
+  - water suit
+  - divine love
+  - compassion
+  - tender feelings
+  - new dreams
+
+card_id: ace-of-pentacles
+themes:
+  - new opportunity
+  - prosperity
+  - manifestation
+  - grounding
+  - physical beginnings
+  - material security
+  - seeds planted
+  - tangible results
+keywords:
+  - ace of pentacles
+  - money opportunity
+  - new job
+  - new business
+  - financial opportunity
+  - material security
+  - physical realm
+  - earth suit
+  - seed planted
+  - prosperity beginning
+  - manifestation
+  - wealth
+  - new health
+  - grounding
+
+card_id: ace-of-swords
+themes:
+  - breakthrough
+  - clarity
+  - truth
+  - new ideas
+  - intellectual power
+  - assertiveness
+  - precision
+  - mental sharpness
+keywords:
+  - ace of swords
+  - new idea
+  - mental clarity
+  - breakthrough
+  - truth
+  - sword of truth
+  - air suit
+  - intellectual power
+  - new beginning
+  - precision
+  - cut through confusion
+  - assertiveness
+  - new perspective
+  - clear thinking
+
+card_id: ace-of-wands
+themes:
+  - inspiration
+  - new opportunities
+  - personal power
+  - passion
+  - motivation
+  - creative force
+  - action
+  - desire
+  - spiritual growth
+keywords:
+  - ace of wands
+  - new passion
+  - inspiration
+  - personal power
+  - creative energy
+  - motivation
+  - fire suit
+  - new beginning
+  - action
+  - desire
+  - ambition
+  - confidence
+  - spiritual awakening
+  - heat energy
+
+card_id: eight-of-cups
+themes:
+  - leaving behind
+  - emotional transition
+  - spiritual growth
+  - disillusionment
+  - walking away
+  - self-discovery
+  - soul-searching
+  - emotional maturity
+  - letting go
+keywords:
+  - eight of cups
+  - walking away
+  - emotional transition
+  - disillusionment
+  - soul-searching
+  - spiritual growth
+  - leaving comfort
+  - moon
+  - seeking meaning
+  - abandonment
+  - divorce
+  - emotional maturity
+  - letting go
+  - following dreams
+
+card_id: eight-of-pentacles
+themes:
+  - apprenticeship
+  - skill development
+  - diligence
+  - craftsmanship
+  - dedication
+  - mastery
+  - patience
+  - incremental progress
+  - personal growth
+keywords:
+  - eight of pentacles
+  - apprenticeship
+  - skill development
+  - diligence
+  - craftsmanship
+  - dedication
+  - mastery
+  - patience
+  - incremental progress
+  - personal growth
+  - learning
+  - craftsman
+  - training
+  - working hard
+  - taking pride
+
+card_id: eight-of-swords
+themes:
+  - restriction
+  - self-imprisonment
+  - second-guessing
+  - self-doubt
+  - fear
+  - internal conflict
+  - social anxiety
+  - censorship
+  - vulnerability
+keywords:
+  - eight of swords
+  - restriction
+  - self-imprisonment
+  - second-guessing
+  - self-doubt
+  - fear of judgment
+  - censorship
+  - social anxiety
+  - internal conflict
+  - trapped
+  - limited
+  - vulnerable
+  - silenced
+  - gossip fears
+
+card_id: eight-of-wands
+themes:
+  - rapid movement
+  - speed
+  - progress
+  - action
+  - energy
+  - communication
+  - travel
+  - momentum
+  - swift change
+keywords:
+  - eight of wands
+  - rapid movement
+  - speed
+  - progress
+  - action
+  - energy
+  - communication
+  - travel
+  - momentum
+  - swift change
+  - fast developments
+  - flying wands
+  - energy in motion
+  - things happening quickly
+
+card_id: five-of-cups
+themes:
+  - loss
+  - regret
+  - disappointment
+  - grief
+  - emotional pain
+  - shame
+  - focusing on what's wrong
+  - failure to see the positive
+  - sorrow
+keywords:
+  - five of cups
+  - loss
+  - regret
+  - disappointment
+  - grief
+  - emotional pain
+  - spilled milk
+  - missed opportunities
+  - broken heart
+  - shame
+  - loss of love
+  - devastation
+  - mourning
+  - weeping
+  - humiliation
+
+card_id: five-of-pentacles
+themes:
+  - adversity
+  - hardship
+  - financial loss
+  - isolation
+  - spiritual poverty
+  - resilience
+  - faith
+  - seeking help
+  - community
+keywords:
+  - five of pentacles
+  - adversity
+  - hardship
+  - financial loss
+  - isolation
+  - spiritual poverty
+  - resilience
+  - faith
+  - seeking help
+  - community
+  - church
+  - bad luck
+  - setbacks
+  - struggle
+  - pride and humility
+
+card_id: five-of-swords
+themes:
+  - conflict
+  - defeat
+  - humiliation
+  - winning at all costs
+  - verbal battles
+  - cheating
+  - betrayal
+  - power dynamics
+keywords:
+  - five of swords
+  - conflict
+  - defeat
+  - humiliation
+  - winning at all costs
+  - verbal battles
+  - cheating
+  - betrayal
+  - manipulation
+  - arguments
+  - fights
+  - lost battle
+  - disgrace
+  - ego
+  - power dynamics
+
+card_id: five-of-wands
+themes:
+  - competition
+  - conflict
+  - rivalry
+  - power struggle
+  - internal conflict
+  - diversity of opinion
+  - creative tension
+  - chaos
+  - standing out
+keywords:
+  - five of wands
+  - competition
+  - conflict
+  - rivalry
+  - power struggle
+  - internal conflict
+  - diversity of opinion
+  - creative tension
+  - chaos
+  - standing out
+  - many opinions
+  - fighting for attention
+  - clash of egos
+  - ambitious competition
+
+card_id: four-of-cups
+themes:
+  - dissatisfaction
+  - restlessness
+  - apathy
+  - contemplation
+  - disillusionment
+  - boredom
+  - stagnation
+  - emotional withdrawal
+  - complacency
+keywords:
+  - four of cups
+  - dissatisfaction
+  - restlessness
+  - apathy
+  - contemplation
+  - disillusionment
+  - boredom
+  - stagnation
+  - emotional withdrawal
+  - grass is greener
+  - complacency
+  - discontent
+  - brooding
+  - unappreciated
+  - routine
+  - brooding
+
+card_id: four-of-pentacles
+themes:
+  - hoarding
+  - security
+  - control
+  - possessiveness
+  - status
+  - stability
+  - conservatism
+  - fear of loss
+  - material attachment
+keywords:
+  - four of pentacles
+  - hoarding
+  - security
+  - control
+  - possessiveness
+  - status
+  - stability
+  - conservatism
+  - fear of loss
+  - material attachment
+  - miser
+  - holding on tight
+  - keeping still
+  - stagnation
+  - wealth protection
+  - jealous relationship

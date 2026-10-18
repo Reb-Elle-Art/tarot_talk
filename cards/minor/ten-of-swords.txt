@@ -1,0 +1,20 @@
+---
+card_id: "ten-of-swords"
+card_name: "Ten of Swords"
+card_type: "minor"
+suit: "swords"
+card_number: "ten"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/minor-arcana/ten-of-swords.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+
+
+
+**Reversed:**
+The Ten of Swords indicates a final end. All that's been said, all that's been thought, all that's been argued is over. It's ended and the matter is dead - if not the person who was on the other side of the discussion. The positive of this card is that things can be laid to rest and everyone can move on.
+
+Turn the card upside-down, however, and the body sinks down on those swords. They impale him even deeper. What should be over isn't over, it lingers, torturing its victim.
+
+H opponents are turning the knife, making him suffer as long as possible. This is the card you'd get for a kid being mocked and insulted every day at school; it just never seems to end. Even worse, the querent may be lead to think that his suffering is over...but it's not. The kids may treat him nice just to get him into a position where they can make even more fun of him. Not a nice card.

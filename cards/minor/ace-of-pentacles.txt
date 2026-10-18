@@ -1,0 +1,20 @@
+---
+card_id: "ace-of-pentacles"
+card_name: "Ace of Pentacles"
+card_type: "minor"
+suit: "pentacles"
+card_number: "ace"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/minor-arcana/ace-of-pentacles.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+New luck, good health or work for new prosperity. There is no desire to burn, flow or fly in the Ace of Pentacles; here is a physical need to be grounded, to make, build and touch. Like a seed in the ground, there is a desire to sprout roots and just become.
+
+The pentacle is taken in hand, and, for now, the querent wants only to have it solidly in his pocket.
+
+
+**Reversed:**
+They should feel that their luck is turning, the beginnings of renewed health - but it doesn't.
+
+It could indicate a failed anticipation - the querent anticipated a hint that money would be coming his way, and there's no such hint. Things remain speculative, rather than real and solid.

@@ -1,0 +1,28 @@
+---
+card_id: "king-of-swords"
+card_name: "King of Swords"
+card_type: "court"
+suit: "swords"
+court_position: "king"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/court-cards/king-of-swords.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+As Motivation: Motivated to come up with ideas or argue points. Motivated to find solutions, solve problems or find better ways of doing things.
+
+As an Adult Man: Call him "The Judge". His kingdom is the kingdom of high ideals. Loving, friendly, but distant, the one thing everyone says about this man is "He's Fair." Likely a lawyer, judge, musician, politician or architect, he is a patient, careful man, with very high ideals. Though he's objective and smart enough to see both sides of an argument, he has strong beliefs, which he expects his family and friends to follow.
+
+Not that he isn't a good father; he can be kind, playful, a loving and faithful husband. He engages his children in stimulating dinner conversations, urging them to think for themselves, debate and research. But though he treats his wife and kids fairly, acknowledging when they are right, he does not put family first like the King of Cups. Ideals come first, and he can be unforgiving of the family member who is weaker or more "human" than he. If his own son or daughter committed a crime, he'd judge them the same as any other criminal, and sentence them the same as any other criminal.
+
+Thus, his own fairness leaves his family feeling less than special to him and, at the same time, less able to make mistakes.
+
+This King has the most brilliant mind, one that, like a master chess player, can see many moves ahead, and take into account a dozen different factors and elements. This puts him above and sometime beyond his subjects. They may not always understand why he decides as he decides, but he does so with the highest ideals and best intent. Which is why he will not budge when it comes to upholding his decisions, not even for his nearest and dearest.
+
+Though he can be viewed as cold, distant, harsh, even cruel, he is, at his best, able to see very clearly how his judgments will affect everyone in the present and future. He is the one that everyone, even the other Kings, go to when they need someone to make the hardest and most far-reaching decisions.
+
+
+**Reversed:**
+This cool, eloquent observer is a fair man with high ideals. He is the philosopher, the judge, the theoretical scientist. He sees the larger picture, the broader implications. No one can render a more balanced, non-biased  judgement on a situation. The negatives of this King come out in his reversal: Woe to anyone who tries to argue with him - he will run verbal rings around them, destroying their mistaken ideas without a second thought. He has no heart when it comes to his ideals and judgements, and will cruelly, if coolly, undermine and condemn those who are in error. At his worse, this king will censor or manipulate evidence to keep himself in power while destroying others.
+
+The King of Swords is also about new philosophies, theories, about observations and facts that can alter and balance out a judgement. Reverse this card and there is a block to new theories and facts. Externally, these could be suppressed by the opposition, like a news program only running stories that agree with its political philosophy, or the church suppressing Galileo's findings, established scientists mocking new ideas that disagree with theirs or police deliberately ignoring the statements of key witnesses. In other words, censorship, or, worse, a deliberate manipulation of facts. It might also be benign problems, loss of evidence, for example. Internally, this could signal a person censoring themselves, holding back truths they ought to be telling.

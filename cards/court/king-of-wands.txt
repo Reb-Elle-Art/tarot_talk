@@ -1,0 +1,26 @@
+---
+card_id: "king-of-wands"
+card_name: "King of Wands"
+card_type: "court"
+suit: "wands"
+court_position: "king"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/court-cards/king-of-wands.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+As Motivation: The planning of a great trip, the idea for some grand new career, being motivated to go into politics or take charge. Depending where it is in the spread, it can indicate that the querent has decided to take command, to overthrow the old with his new, bold ideas.
+
+As an Adult Man: Call him "The Preacher." He fills a room when he walks in, expansive, full of energy, charisma, fun. You know this man; he's the motivational speaker, the charismatic church leader, the great innovator who can turn a company around, with employees working overtime to please him. He is the warm politician, the idea man, the bullying coach who transforms losers into winners. He loves danger, adventure, challenges.
+
+This is Alexander the Great, Julius Caesar, Henry V. He always has to lead the charge and he hasn't friends so much as worshippers; people either love him or hate him, and the same goes for his family. Not that he doesn't love his family; he fell in love with his wife at first sight and wooed her till she loved him back; and he's great with kids. No dad was ever so inventive or fun.
+
+But he fully expects his family to come with him, wherever he goes - be it on African Safari or to the President's mansion. They must support whatever he does. If they don't, his other side can come to the surface, one that is jealous, impatient, tyrannical. It is not surprising that sometimes his wife or children will rebel against him, or leave him altogether. At his best, however, he is as adored by his off-spring as he is by his people. His praise and approval is worth more to them than fame or fortunes, and they will go above and beyond the call of duty to please him.
+
+
+**Reversed:**
+The King of Wands is a most charismatic leader. An innovator who can get a following with one speech; adventurous, challenging, warm and in charge. His ideas set people on fire and motivate them to do the impossible. Here is a man who can get pyramids built and countries conquered or peace movements rolling. He can impose civilization on unruly mobs with his energetic willpower alone.
+
+The negatives of the King of Wands come through in the reversal where he becomes, well, Hitlerian. He expects people to worship him and do as he says as if he were a god, not a human leader. He has secret police and shuts down any critics of his ideas. His temper is terrible, often violent - and if he wishes it, he can turn his otherwise civilized followers into barbaric, bloodthirsty mobs, ransacking and destroying in his name.
+
+The King of Wands represents the energy of innovation, change, motivation and challenges. This is the power to get something new started which will make a great difference. Reverse this and we see blocks to innovation and change ; old powers standing in the way, red tape that makes it difficult to just bring out a new invention. Internally, it can mean a fear of taking big, important chances or risks, putting your beliefs or ideas on the line.

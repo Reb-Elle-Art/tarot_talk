@@ -1,0 +1,24 @@
+---
+card_id: "two-of-pentacles"
+card_name: "Two of Pentacles"
+card_type: "minor"
+suit: "pentacles"
+card_number: "two"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/minor-arcana/two-of-pentacles.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+Standing before the waves of an ocean, a fellow deftly juggles two pentacles. The meaning is pretty straightforward. This is the juggling finances, jobs, responsibilities card. We pay one bill, and don't pay the other (which is up in the air). When it comes down and we can't put it of any longer, we pay that and let the other one be up in the air.
+
+The querent may be doing this because they want to or may need to do this. They may feel they've worked so hard on both that they haven't the heart to put either one aside. And so they switch off put "work" or money into one thing while neglecting the other, keeping both alive, but allowing neither to thrive.
+
+Yet this juggling may be a good idea. Having two jobs or projects also allows there to be a fail-safe, something to fall back on if the other goes wrong.
+
+As with the swords, there's no keeping this up forever, but it may suffice while you're waiting for your luck to change or circumstances to help make the decision for you.
+
+
+**Reversed:**
+Upright, our man juggles finances, luck or health. It's not easy and he can't keep it up forever, but he's managing.
+
+Reversed, however, he loses all coordination. Those pentacles go flying and he not only can't juggle them...he might not have them at all. Reversed, this card could indicate that the finances our juggler was relying on have vanished. If one goes, there's no juggling with the other one.

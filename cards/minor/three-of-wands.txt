@@ -1,0 +1,22 @@
+---
+card_id: "three-of-wands"
+card_name: "Three of Wands"
+card_type: "minor"
+suit: "wands"
+card_number: "three"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/minor-arcana/three-of-wands.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+A man with two wands, holding a third, looks out to sea, waiting. Sometimes there are boats on the horizon. This is the card of "waiting for the ships to come in."
+
+The person has invested their passion in something - a new career, a big move to a new city (remember wands signify travel as well), maybe they've even thrown their hat into a political ring - and now the energy they sent out is coming back to them. It is a card of progress, of the first hint that the dream can be made real.
+
+This card also indicates that, like a woman holding her new born babe in her arms for the first time, or a politician hearing that the first round of votes are for him/her, the querent might rightly be feeling a little proud, even powerful. They might be warned, however, to not get too excited. Though there is a sense that positive results are coming in, they should wait till the ships have all appeared and docked before celebrating or boasting.
+
+
+**Reversed:**
+Waiting for ships to come in, this card promises the payoff for that initial investment of energy. Your good choice brings rewards.
+
+Reversed, however, and you get, I think, a blocked interpretation. A delay in the pay off, or, if really opposite, the ships have sunk. The anticipated reward is not or cannot come your way.

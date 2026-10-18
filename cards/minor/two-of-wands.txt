@@ -1,0 +1,22 @@
+---
+card_id: "two-of-wands"
+card_name: "Two of Wands"
+card_type: "minor"
+suit: "wands"
+card_number: "two"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/minor-arcana/two-of-wands.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+Picture usually features a man with one wand in hand, the other set aside. Thus, the card is usually about making a choice. Wands are passion, and passion is not something that works when split. It requires a single focus. This card indicates a choice about where to put your energy and passion. Some readers find this card confusing as compared to the Lovers card, which is also about choice.
+
+The Lovers is usually about an unexpected choice coming into your life. You intended to go one way, but something appeared, you feel connected to it, and now have a choice to make. Often the Lovers carries a feeling that the wrong choice could lead to real regret.
+
+By comparison, the two wands present you with equal directions to go. A fork in the road and either way seems good. Or two ways of doing the same thing. Both look good, but you can only put your energy into doing one. So you make a choice. You'll likely have an instinctive feeling that one is slightly more to your liking then the other. This card signals that moment where you pause, give both walking sticks a feel in the hand and decide on one over the other. You likely will not regret that choice, only that you didn't have energy enough to do both.
+
+
+**Reversed:**
+Upright, this is a card about making an intuitive choice. There are two possibilities, equally good, and the querent judges them and goes with is instinct after one or the other.
+
+Reversed, it seems quite clear that a decision cannot be made. The blocked interpretation is most clear for this - something is preventing the person from seeing any difference in the two, from being able to tell which is the one in which to invest his energy.

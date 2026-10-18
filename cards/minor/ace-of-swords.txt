@@ -1,0 +1,18 @@
+---
+card_id: "ace-of-swords"
+card_name: "Ace of Swords"
+card_type: "minor"
+suit: "swords"
+card_number: "ace"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/minor-arcana/ace-of-swords.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+The mind is awakening for new challenges in the Ace of Swords. This usually indicates that the person's mind is feeling sharper, clearer. They want to talk, want to discuss or write. The breeze stirs through the trees and the fledgling thinks of trying out its newly feathered wings.
+
+The sword is lifted, and the querent wants to test its edge.
+
+
+**Reversed:**
+Reversed,  the most immediate opposite meaning of the Ace of Swords is that there is no spark of an idea, or that it is blocked. They should feel the start of a new idea, or a new speech they wants to give, but there's nothing.

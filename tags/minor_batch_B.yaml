@@ -1,0 +1,383 @@
+card_id: four-of-swords
+themes:
+  - rest
+  - recuperation
+  - meditation
+  - retreat
+  - mental recovery
+  - healing
+  - introspection
+  - sanctuary
+  - stillness
+keywords:
+  - four of swords
+  - rest
+  - meditation
+  - retreat
+  - recuperation
+  - mental break
+  - tranquility
+  - exhaustion
+  - stress relief
+  - brain calm
+  - solitude
+  - put up swords
+  - cooldown
+  - aftermath of battle
+
+card_id: four-of-wands
+themes:
+  - celebration
+  - completion
+  - foundation
+  - achievement
+  - marriage
+  - union
+  - community
+  - joy
+  - teamwork
+keywords:
+  - four of wands
+  - foundation
+  - celebration
+  - completion
+  - marriage
+  - victory
+  - party
+  - harmony
+  - community
+  - building
+  - success
+  - stable
+  - partnership
+  - first stage finished
+  - congratulations
+
+card_id: nine-of-cups
+themes:
+  - wishes
+  - emotional fulfillment
+  - happiness
+  - abundance
+  - contentment
+  - friendship
+  - satisfaction
+  - joy
+  - generosity
+keywords:
+  - nine of cups
+  - wish
+  - emotional fulfillment
+  - happiness
+  - abundance
+  - contentment
+  - satisfaction
+  - joy
+  - friendship
+  - celebration
+  - wishes granted
+  - inner peace
+  - good fortune
+  - feasting
+  - cup of good cheer
+
+card_id: nine-of-pentacles
+themes:
+  - abundance
+  - self-sufficiency
+  - luxury
+  - independence
+  - financial security
+  - comfort
+  - self-care
+  - retreat
+  - personal paradise
+keywords:
+  - nine of pentacles
+  - luxury
+  - self-sufficiency
+  - independence
+  - comfort
+  - finances
+  - money
+  - home
+  - retreat
+  - solo enjoyment
+  - self-care
+  - security
+  - personal paradise
+  - earned success
+  - financial independence
+  - spa
+
+card_id: nine-of-swords
+themes:
+  - anxiety
+  - worry
+  - nightmares
+  - insomnia
+  - mental anguish
+  - despair
+  - fear
+  - overthinking
+  - crisis
+keywords:
+  - nine of swords
+  - anxiety
+  - worry
+  - nightmares
+  - insomnia
+  - despair
+  - fear
+  - mental anguish
+  - stress
+  - overwhelming thoughts
+  - sleepless
+  - crisis
+  - overthinking
+  - mental spiral
+  - anguish
+
+card_id: nine-of-wands
+themes:
+  - resilience
+  - determination
+  - perseverance
+  - final push
+  - endurance
+  - courage
+  - strength
+  - battle-worn
+  - persistence
+keywords:
+  - nine of wands
+  - resilience
+  - perseverance
+  - final push
+  - endurance
+  - determination
+  - courage
+  - strength
+  - keep going
+  - war worn
+  - persistence
+  - last stand
+  - not giving up
+  - battle
+  - reserves
+
+card_id: seven-of-cups
+themes:
+  - choices
+  - fantasy
+  - illusion
+  - daydreams
+  - indecision
+  - temptation
+  - escapism
+  - creativity
+  - confusion
+keywords:
+  - seven of cups
+  - choices
+  - fantasy
+  - illusion
+  - daydream
+  - temptation
+  - options
+  - indecision
+  - escapism
+  - dreams
+  - fantasies
+  - many options
+  - confusion
+  - willpower
+  - fantasy vs reality
+
+card_id: seven-of-pentacles
+themes:
+  - patience
+  - waiting
+  - perseverance
+  - investment
+  - harvest
+  - growth
+  - long-term vision
+  - reward
+  - endurance
+keywords:
+  - seven of pentacles
+  - patience
+  - waiting
+  - perseverance
+  - harvest
+  - growth
+  - investment
+  - reward
+  - endurance
+  - hard work
+  - long term
+  - time
+  - patience wears thin
+  - false opportunity
+
+card_id: seven-of-swords
+themes:
+  - cunning
+  - strategy
+  - stealth
+  - theft
+  - deception
+  - secrets
+  - betrayal
+  - resourcefulness
+  - cleverness
+keywords:
+  - seven of swords
+  - stealth
+  - theft
+  - cunning
+  - deception
+  - secrets
+  - betrayal
+  - resourcefulness
+  - cleverness
+  - sneakiness
+  - dishonesty
+  - thievery
+  - lies
+  - outwit
+  - information theft
+
+card_id: seven-of-wands
+themes:
+  - competition
+  - defense
+  - perseverance
+  - conflict
+  - bravery
+  - standing ground
+  - under siege
+  - resistance
+keywords:
+  - seven of wands
+  - competition
+  - defense
+  - perseverance
+  - conflict
+  - bravery
+  - standing ground
+  - under siege
+  - resistance
+  - holding ground
+  - fight
+  - odds against
+  - defend position
+
+card_id: six-of-cups
+themes:
+  - nostalgia
+  - innocence
+  - joy
+  - childhood
+  - reunion
+  - memory
+  - comfort
+  - familiar happiness
+  - sharing
+keywords:
+  - six of cups
+  - nostalgia
+  - innocence
+  - childhood
+  - reunion
+  - memory
+  - comfort
+  - joy
+  - familiar happiness
+  - shared love
+  - family
+  - known joy
+  - past
+  - flower cup
+
+card_id: six-of-pentacles
+themes:
+  - generosity
+  - giving
+  - receiving
+  - balance
+  - charity
+  - sharing wealth
+  - fairness
+  - gratitude
+  - exchange
+keywords:
+  - six of pentacles
+  - generosity
+  - giving
+  - receiving
+  - balance
+  - charity
+  - sharing wealth
+  - fairness
+  - gratitude
+  - exchange
+  - help
+  - one another
+  - scales
+  - donation
+  - gift of money
+
+card_id: six-of-swords
+themes:
+  - transition
+  - travel
+  - mental clarity
+  - problem-solving
+  - journey
+  - calm after storm
+  - finding solutions
+  - passage
+keywords:
+  - six of swords
+  - transition
+  - travel
+  - mental clarity
+  - problem solving
+  - journey
+  - moving forward
+  - calm
+  - solutions
+  - ferry crossing
+  - eureka
+  - breakthrough
+  - leaving difficulties
+  - boat
+
+card_id: six-of-wands
+themes:
+  - victory
+  - success
+  - recognition
+  - applause
+  - public acclaim
+  - achievement
+  - confidence
+  - celebration
+keywords:
+  - six of wands
+  - victory
+  - success
+  - recognition
+  - applause
+  - public acclaim
+  - achievement
+  - confidence
+  - celebration
+  - leadership
+  - crowd
+  - winner
+  - laurel wreath
+  - champion
+  - applause

@@ -1,0 +1,22 @@
+---
+card_id: "ace-of-wands"
+card_name: "Ace of Wands"
+card_type: "minor"
+suit: "wands"
+card_number: "ace"
+source_url: "https://www.aeclectic.net/tarot/tarot-card-meanings/minor-arcana/ace-of-wands.shtml"
+date_scraped: "2026-10-17"
+---
+
+**Upright:**
+A new spark of energy for a new passion.
+
+The Ace of Wands usually indicates that the querent has just discovered or wants to discover a new religion, philosophy, cause or career choice, possibly even a new sexual partner.
+
+They feel their energy go up, they feel the heat, and they want more of it. They take up the wand and start walking.
+
+
+**Reversed:**
+Reversed Ace of Wands is like trying to start a fire, and getting nothing. No smoke, no spark. They should be feeling excited at a new prospect or ambition, but don't.
+
+It's the hope of a hope that never comes. There's not even the feeling that something was there and died - it was never there in the first place.
