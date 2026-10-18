@@ -1,4 +1,4 @@
-# tarto_talk
+# tarot_talk
 A dedicated tarot RAG bot for Telegram. Ask questions about tarot cards in plain language — the bot retrieves relevant passages from a curated 78-card corpus and synthesizes answers using local models.
 
 Features:
